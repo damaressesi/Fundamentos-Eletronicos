@@ -1,2 +1,2 @@
-# Fundamentos-Eletr-nicos
+# Fundamentos-Eletrônicos
 Fundamentos Eletrônicos
